@@ -7,7 +7,7 @@ import Table from "./components/table";
 function App() {
   return (
     <Conteiner>
-        <h1>Transferencias</h1>
+        <h1 style={{textAlign: "center"}}> Sistema de Transferencias</h1>
         <Conteiner>
           <Table />        
         </Conteiner>

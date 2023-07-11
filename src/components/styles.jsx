@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const Conteiner = styled.div`
   margin: 0 10px;
+
 `;
 
 
@@ -54,7 +55,8 @@ export const PropertiesTable = styled.table`
     border-radius: 50px;
     text-align: center;
     border: 0px;
-    background: white;
+    
+    background: red;
 
     :hover {
         border: 1px solid black;
